@@ -12,12 +12,12 @@ Feel free to ask if there are some that you could not understand.
 ### Part 2: Create Static API CRUD User
 ### Part 3 (problem 1): API CRUD User using database
 
-## Week 4: Code Structuring (cont.)
+## Week 5: Code Structuring (cont.)
 ### Part 3 (Problem 2): MVC Code Structuring
 ### Part 4: Middleware, Logging and JWT Authentication
 
-## Week 5: Unit Testing
+## Week 6: Unit Testing
 ### Part 1: Unit Testing Implementation
 
-## Week 6: AltaStore Project
+## Week 7: AltaStore Project
 ### Part 1: API AltaStore Project
