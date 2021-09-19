@@ -1,5 +1,5 @@
-# TUGAS GOLANG BACKEND BOOTCAMP (ALTERRA ACADEMY)
-Here I put task in part section as submodule repository. 
+# Golang Backend Task 
+Here I put tasks of Golang Backend Bootcamp from Alterra Academy in part section as submodule repository. 
 Feel free to ask if there are some that you could not understand.
 
 ## Week 3: Relational Database 
