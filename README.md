@@ -37,3 +37,8 @@ Feel free to ask if there are some that you could not understand.
 1. Membuat VM di EC2 dan implementasi security group EC2
 2. Melakukan SSH Remote ke VM di AWS EC2 (dengan key) serta dijelaskan key dan password
 3. deploy your program to EC2.
+
+### Part 3: Deployment EC2
+1. Membuat VM di EC2 dan implementasi security group EC2
+2. Melakukan SSH remote ke VM di AWS EC2(dengan key) serta dijelaskan key dan password
+3. Deploy your program to EC2
