@@ -38,7 +38,11 @@ Feel free to ask if there are some that you could not understand.
 2. Melakukan SSH Remote ke VM di AWS EC2 (dengan key) serta dijelaskan key dan password
 3. deploy your program to EC2.
 
-### Part 3: Deployment EC2
-1. Membuat VM di EC2 dan implementasi security group EC2
-2. Melakukan SSH remote ke VM di AWS EC2(dengan key) serta dijelaskan key dan password
-3. Deploy your program to EC2
+### Part 3: Deployment RDS
+1. Membuat DB di RDS
+2. Migrate your local data to RDS
+3. Connect your application to RDS
+
+### Part 4: Pointing Domain
+1. Pointing Domain ke IP VM EC2
+2. Deploy dan jalankan aplikasi di live environment di AWS yang dapat diakses publik sesuai standard
