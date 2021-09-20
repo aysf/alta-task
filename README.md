@@ -23,7 +23,17 @@ Feel free to ask if there are some that you could not understand.
 ### Part 1: API AltaStore Project
 
 ## Week 8: Deploy
-### Part 1: Membuat VM di EC2 
+### Part 1: Docker
+1. Install docker & docker compose
+2. Create dockerfile
+3. Clone your code and integrate to your dockerfile
+4. Build your container
+5. Push the image to docker registry
+6. Deploy in your local machine
+7. Try DockerCompose to run go app + mysql(opt)
+8. Try to Deploy in the Cloud(opt)
+
+### Part 2: Membuat VM di EC2 
 1. Membuat VM di EC2 dan implementasi security group EC2
 2. Melakukan SSH Remote ke VM di AWS EC2 (dengan key) serta dijelaskan key dan password
 3. deploy your program to EC2.
