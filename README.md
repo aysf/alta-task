@@ -24,3 +24,6 @@ Feel free to ask if there are some that you could not understand.
 
 ## Week 8: Deploy
 ### Part 1: Membuat VM di EC2 
+1. Membuat VM di EC2 dan implementasi security group EC2
+2. Melakukan SSH Remote ke VM di AWS EC2 (dengan key) serta dijelaskan key dan password
+3. deploy your program to EC2.
