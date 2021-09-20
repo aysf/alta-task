@@ -21,3 +21,6 @@ Feel free to ask if there are some that you could not understand.
 
 ## Week 7: AltaStore Project
 ### Part 1: API AltaStore Project
+
+## Week 8: Deploy
+### Part 1: Membuat VM di EC2 
