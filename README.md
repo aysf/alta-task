@@ -52,9 +52,11 @@ Feel free to ask if there are some that you could not understand.
 1. Create CI/CD to automate deployment https://github.com/iffakhry/alta-aws-ec2-be2
 
 ### Part 6: Deployment Kubernetes
-1. Deploy your application by using kubectl from your local machine
-    a. Containerize go app (docker build)
-    b. Push to image registry (docker push)
-    c. Create kubernetes manifest
-    d. Try to perform kubectl appyl
+1. Deploy your application by using kubectl from your local machine    
+     
+     a. Containerize go app (docker build)    
+     b. Push to image registry (docker push)    
+     c. Create kubernetes manifest    
+     d. Try to perform kubectl appyl
+     
 3. Create CI/CD to automate deployment with Kubernetes
