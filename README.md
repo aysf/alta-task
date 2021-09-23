@@ -47,3 +47,14 @@ Feel free to ask if there are some that you could not understand.
 ### Part 4: Pointing Domain
 1. Pointing Domain ke IP VM EC2
 2. Deploy dan jalankan aplikasi di live environment di AWS yang dapat diakses publik sesuai standard
+
+### Part 5: Deployment CI/CD
+1. Create CI/CD to automate deployment https://github.com/iffakhry/alta-aws-ec2-be2
+
+### Part 6: Deployment Kubernetes
+1. Deploy your application by using kubectl from your local machine
+    a. Containerize go app (docker build)
+    b. Push to image registry (docker push)
+    c. Create kubernetes manifest
+    d. Try to perform kubectl appyl
+3. Create CI/CD to automate deployment with Kubernetes
