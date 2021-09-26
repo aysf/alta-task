@@ -6,3 +6,7 @@
 	path = week3-part2
 	url = https://github.com/aysf/alta-be-w3-schema_ddl.git
 	branch = main
+[submodule "week3-part3"]
+	path = week3-part3
+	url = https://github.com/aysf/alta-be-w3-schema_dml.git
+	branch = main
