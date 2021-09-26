@@ -10,3 +10,19 @@
 	path = week3-part3
 	url = https://github.com/aysf/alta-be-w3-schema_dml.git
 	branch = main
+[submodule "week4-part1"]
+	path = week4-part1
+	url = https://github.com/aysf/api-task-part1.git
+	branch = master
+[submodule "week4-part2"]
+	path = week4-part2
+	url = https://github.com/aysf/alta-static-api-crud.git
+	branch = master
+[submodule "week4-part3"]
+	path = week4-part3
+	url = https://github.com/aysf/api-task-part3.git
+	branch = master
+[submodule "week5-part1_2"]
+	path = week5-part1_2
+	url = https://github.com/aysf/api-task-part4.git
+	branch = master
