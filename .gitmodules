@@ -26,3 +26,7 @@
 	path = week5-part1_2
 	url = https://github.com/aysf/api-task-part4.git
 	branch = master
+[submodule "week8-part1"]
+	path = week8-part1
+	url = https://github.com/aysf/alta-be-w8-docker.git
+	branch = main
