@@ -30,3 +30,7 @@
 	path = week8-part1
 	url = https://github.com/aysf/alta-be-w8-docker.git
 	branch = main
+[submodule "week6-unit_testing"]
+	path = week6-unit_testing
+	url = https://github.com/aysf/alta-be-w6-unit_testing.git
+	branch = master
